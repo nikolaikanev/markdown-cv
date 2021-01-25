@@ -2,8 +2,8 @@
 layout: cv
 title: Nikolai Kanev
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nikolai Kanev
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
