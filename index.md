@@ -6,8 +6,8 @@ title: Nikolai Kanev
 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a target="_blank" rel="noopener" href="tel:+359876262668">+359-876-262-668</a>
+| <a target="_blank" rel="noopener" href="mailto:nikolai.em.kanev@gmail.com">nikolai.em.kanev@gmail.com</a>
 </div>
 
 
