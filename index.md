@@ -34,12 +34,12 @@ In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slac
 
 ### Javascript 101 (In process)
 
-Padawan Academy
+__[Padawan Academy](https://github.com/mihaildono/padawan-project){:target="_blank" rel="noopener"}__
 
 An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, if/else, and others.
 Most importently, learning to think like a developer.
 
-### Front-End Development(HTML,CSS) 
+### Front-End (HTML, CSS) 
 
 SoftUni
 
