@@ -26,7 +26,7 @@ HTML, CSS, Google sheet, Excel formulas, Javascript basics, Photoshop lightbox
 `April 2020 - September 2020`
 __[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
 
-In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slack and Photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learn a lot about work processes.
+In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slack and Photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learned a lot about work processes.
 
 
 ## Courses
@@ -42,7 +42,7 @@ Most importantly, learning to think like a developer.
 
 __[SoftUni](https://about.softuni.bg/){:target="_blank" rel="noopener"}__
 
-Learn to build CSS shapes, navigation bars, flexbox and others.
+Learned to build CSS shapes, navigation bars, flexbox and others.
 
 ### The Art of Landing Page Creation
 
