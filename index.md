@@ -32,16 +32,24 @@ In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slac
 
 ## Courses
 
-###Javascript 101 (In process)###
+###Javascript 101 (In process)
 
-Padawan Academy - An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, if/else, and others.
+Padawan Academy
+
+An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, if/else, and others.
 Most importently, learning to think like a developer.
 
-__Front-End Development(HTML,CSS)__  
-SoftUni - Learn to build css shapes, navigation bars, flexbox and others.
+###Front-End Development(HTML,CSS) 
 
-__The Art of Landing Page Creation__  
-SoftUni - Learned more about marketing and customer UX and landing pages.
+SoftUni
+
+Learn to build css shapes, navigation bars, flexbox and others.
+
+###The Art of Landing Page Creation
+
+SoftUni
+
+Learned more about marketing and customer UX and landing pages.
 
 
 ## Education
