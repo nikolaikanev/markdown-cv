@@ -54,7 +54,7 @@ Learned more about marketing and customer UX and landing pages.
 ## Education
 
 `2011 - 2015`
-__Comuter technologies, highschool "PGMET Stoycho and Kica Marchevi", Haskovo, Bulgaria__
+__Computer technologies, highschool "PGMET Stoycho and Kica Marchevi", Haskovo, Bulgaria__
 
 `2018 - 2020`
 __Administration and management, University of national and world economy, Sofia, Bulgaria__  
