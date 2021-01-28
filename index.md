@@ -57,7 +57,7 @@ Learned more about marketing and customer UX and landing pages.
 __Comuter technologies, highschool "PGMET Stoycho and Kica Marchevi", Haskovo, Bulgaria__
 
 `2018 - 2020`
-__Administration and management, University of national and world economy, Sofia, Bulgaria__
+__Administration and management, University of national and world economy, Sofia, Bulgaria__  
 Dropped out in the second year.
 
 
