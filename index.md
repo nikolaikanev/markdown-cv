@@ -40,11 +40,15 @@ SoftUni - in the course i learned more about marketing and customer UX and landi
 
 
 ## Education
-
-
+'2011 - 2015'
+Comuter techincs and technologies 
 studied in highschool of "PGMET Stoycho and Kica Marchevi"
 
-speciality : Comuter techincs and technologies
+'2018 - 2019'
+Administration and management
+University of national and world economy
+Dropped out in the second year.
+
 
 <!-- ### Footer
 
