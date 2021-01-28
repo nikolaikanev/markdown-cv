@@ -41,13 +41,13 @@ Most importently, learning to think like a developer.
 
 ### Front-End (HTML, CSS) 
 
-SoftUni
+__[SoftUni](https://about.softuni.bg/){:target="_blank" rel="noopener"}__
 
 Learn to build css shapes, navigation bars, flexbox and others.
 
 ### The Art of Landing Page Creation
 
-SoftUni
+__[SoftUni](https://about.softuni.bg/){:target="_blank" rel="noopener"}__
 
 Learned more about marketing and customer UX and landing pages.
 
