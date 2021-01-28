@@ -36,13 +36,13 @@ In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slac
 __[Padawan Academy](https://github.com/mihaildono/padawan-project){:target="_blank" rel="noopener"}__
 
 An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, if/else, and others.
-Most importently, learning to think like a developer.
+Most importantly, learning to think like a developer.
 
 ### Front-End (HTML, CSS) 
 
 __[SoftUni](https://about.softuni.bg/){:target="_blank" rel="noopener"}__
 
-Learn to build css shapes, navigation bars, flexbox and others.
+Learn to build CSS shapes, navigation bars, flexbox and others.
 
 ### The Art of Landing Page Creation
 
