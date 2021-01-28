@@ -14,7 +14,6 @@ title: Nikolai Kanev
 ## Summery
 
 Since I've passed through some HTML, CSS, JavaScript, and Excell courses and I consider myself a practical learner, I'd love to work on digital projects that leave me space for improvements.
-Aa
 
 ### Technologies
 
