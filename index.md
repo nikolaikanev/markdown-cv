@@ -27,9 +27,24 @@ HTML, CSS, Google sheet, Excel formulas, Javascript basics, Photoshop lightbox
 `April 2020 - September 2020`
 __[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
 
+In Bakalin I used a number of tools as google sheets, Django admin, Trello, Slack and photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learn a lot about work processes.
+
+
 ## Courses
 
+Front-End Development(HTML,CSS)
+SoftUni -Here I knowed that I want to make something in IT industry and understand more about developing in front end.
+
+The Art of Landing Page Creation
+SoftUni - in the course i learned more about marketing and customer UX and landing pages.
+
+
 ## Education
+
+
+studied in highschool of "PGMET Stoycho and Kica Marchevi"
+
+speciality : Comuter techincs and technologies
 
 <!-- ### Footer
 
