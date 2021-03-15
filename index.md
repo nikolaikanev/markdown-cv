@@ -40,7 +40,6 @@ Most importantly, learning to think like a developer.
 
 Projects:
 - [Padawan Calories Calculator](https://github.com/nikolaikanev/padawan-calories-calculator){:target="_blank" rel="noopener"}
-- [![Demo](https://j.gifs.com/XL33og.gif)](https://www.youtube.com/watch?v=nBkGemxXtpc&ab_channel=NikolaiKanev)
 
 ### Front-End (HTML, CSS) 
 
