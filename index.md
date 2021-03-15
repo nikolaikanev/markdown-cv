@@ -24,7 +24,7 @@ HTML, CSS, Google sheet, Excel formulas, Javascript basics, Photoshop lightbox
 ### Content inputer
 
 `April 2020 - September 2020`
-__[Bakalin BG](https://bakalin.bg/){:target="_blank" rel="noopener"}__
+__[Bakalin BG](https://www.facebook.com/bakalin.bg){:target="_blank" rel="noopener"}__
 
 In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slack and Photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learned a lot about work processes.
 
@@ -35,8 +35,12 @@ In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slac
 
 __[Padawan Academy](https://github.com/mihaildono/padawan-project){:target="_blank" rel="noopener"}__
 
-An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, if/else, and others.
+An open-source course about the JavaScript basics. Learning about syntax, creating functions, variables, parameters, loops, if/else, and others.
 Most importantly, learning to think like a developer.
+
+Projects:
+- [Padawan Calories Calculator](https://github.com/nikolaikanev/padawan-calories-calculator){:target="_blank" rel="noopener"}
+- [Demo](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=nBkGemxXtpc&ab_channel=NikolaiKanev)
 
 ### Front-End (HTML, CSS) 
 
