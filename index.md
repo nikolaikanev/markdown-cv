@@ -29,10 +29,10 @@ __[Bakalin BG](https://www.facebook.com/bakalin.bg){:target="_blank" rel="noopen
 In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slack and Photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learned a lot about work processes.
 
 ### Content inputer - part time
-`november 2020 - until now `
+`november 2020 - until now`
 __[GlassDollar](https://glassdollar.com/){:target="_blank" rel="noopener"}__
 
-In GlassDollar, I work with Google sheets and Javascript. I am working with spreadsheets. Generaly the work is onhand but via JS I automate the process.
+In GlassDollar, I work with Google sheets and Javascript to categorize, filter and create data essential for company's digital products. Manual work I do with spreadsheets - Google Sheet and Rows(https://rows.com/) and where is pragmatic I write custom JavaScript for CSV parsing, enrichment and mappings. Most of the results of my work can be seen at: https://ranking.glassdollar.com/
 
 ## Courses
 
