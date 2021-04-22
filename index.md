@@ -32,7 +32,7 @@ In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slac
 `november 2020 - until now `
 __[GlassDollar](https://glassdollar.com/){:target="_blank" rel="noopener"}__
 
-In GlassDollar I worked with Google sheets, Slack and Javascript. Here i learned how to solve problems via codimg. Learn to work with massive data base. 
+In GlassDollar, I work with Google sheets and Javascript. I am working with spreadsheets. Generaly the work is onhand but via JS I automate the process.
 
 ## Courses
 
