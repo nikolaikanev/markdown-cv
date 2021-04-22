@@ -28,6 +28,11 @@ __[Bakalin BG](https://www.facebook.com/bakalin.bg){:target="_blank" rel="noopen
 
 In Bakalin I used a number of tools as Google sheets, Django admin, Trello, Slack and Photoshop lightroom. I improved my skills in writing excel formulas, which was a key part of my work as a data inputter. I also learned a lot about work processes.
 
+### Content inputer - part time
+`november 2020 - until now `
+__[GlassDollar](https://glassdollar.com/){:target="_blank" rel="noopener"}__
+
+In GlassDollar I worked with Google sheets, Slack and Javascript. Here i learned how to solve problems via codimg. Learn to work with massive data base. 
 
 ## Courses
 
